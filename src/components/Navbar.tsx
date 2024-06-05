@@ -19,7 +19,7 @@ const Navbar = ({ selectedPage, setSelectedPage, isTopOfPage }: Props) => {
     <nav>
       <div
         className={`fixed flex items-center justify-between top-0 z-30 w-full py-6 ${
-          isTopOfPage ? "bg-gray-20" : "bg-primary-100 drop-shadow"
+          isTopOfPage ? "bg-transparent" : "bg-primary-100 drop-shadow"
         }`}
       >
         <div className="flex items-center justify-between mx-auto w-5/6">
