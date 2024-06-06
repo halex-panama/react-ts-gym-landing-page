@@ -2,7 +2,6 @@ import {
   Navbar,
   Home,
   Benefits,
-  Class,
   OurClasses,
   Contact,
   Footer,
