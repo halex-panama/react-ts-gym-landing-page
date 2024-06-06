@@ -4,6 +4,7 @@ import HomePageGraphic from "./HomePageGraphic.png";
 import SponsorRedBull from "./SponsorRedBull.png";
 import SponsorForbes from "./SponsorForbes.png";
 import SponsorFortune from "./SponsorFortune.png";
+import BenefitsPageGraphic from "./BenefitsPageGraphic.png";
 
 export {
   Logo,
@@ -12,4 +13,5 @@ export {
   SponsorForbes,
   SponsorFortune,
   SponsorRedBull,
+  BenefitsPageGraphic,
 };
