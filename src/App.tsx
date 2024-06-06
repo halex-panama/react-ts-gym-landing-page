@@ -1,4 +1,11 @@
-import { Navbar, Home, Benefits, Class, OurClasses } from "@/components/";
+import {
+  Navbar,
+  Home,
+  Benefits,
+  Class,
+  OurClasses,
+  Contact,
+} from "@/components/";
 import { useEffect, useState } from "react";
 import { SelectedPage } from "@/utils/types";
 
@@ -30,6 +37,7 @@ const App = () => {
       <Home setSelectedPage={setSelectedPage} />
       <Benefits setSelectedPage={setSelectedPage} />
       <OurClasses setSelectedPage={setSelectedPage} />
+      <Contact setSelectedPage={setSelectedPage} />
     </div>
   );
 };

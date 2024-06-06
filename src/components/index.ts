@@ -7,6 +7,7 @@ import BenefitCard from "./BenefitCard";
 import HeadingText from "./HeadingText";
 import OurClasses from "./OurClasses";
 import Class from "./Class";
+import Contact from "./Contact";
 
 export {
   Navbar,
@@ -18,4 +19,5 @@ export {
   HeadingText,
   OurClasses,
   Class,
+  Contact,
 };
