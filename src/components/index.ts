@@ -8,6 +8,7 @@ import HeadingText from "./HeadingText";
 import OurClasses from "./OurClasses";
 import Class from "./Class";
 import Contact from "./Contact";
+import Footer from "./Footer";
 
 export {
   Navbar,
@@ -20,4 +21,5 @@ export {
   OurClasses,
   Class,
   Contact,
+  Footer,
 };

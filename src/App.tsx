@@ -5,6 +5,7 @@ import {
   Class,
   OurClasses,
   Contact,
+  Footer,
 } from "@/components/";
 import { useEffect, useState } from "react";
 import { SelectedPage } from "@/utils/types";
@@ -38,6 +39,7 @@ const App = () => {
       <Benefits setSelectedPage={setSelectedPage} />
       <OurClasses setSelectedPage={setSelectedPage} />
       <Contact setSelectedPage={setSelectedPage} />
+      <Footer />
     </div>
   );
 };

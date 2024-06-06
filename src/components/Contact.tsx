@@ -63,7 +63,7 @@ const Contact = ({ setSelectedPage }: Props) => {
             }}
           >
             <form
-              action="https://formsubmit.co/el/confirm/829af0997cec53929b0dd3c255e09d4b"
+              action="https://formsubmit.co/halex.panama@gmail.com"
               target="_blank"
               method="POST"
               onSubmit={onSubmit}
