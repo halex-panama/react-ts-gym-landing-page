@@ -32,4 +32,4 @@ Start the project on your local machine
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co.com/cx7VSPm/gym-landing-page-86-netlify-app.png)
+![App Screenshot](https://i.ibb.co/0Xfv8Nm/EVOGYM.png)
